@@ -1,0 +1,19 @@
+/* 
+    Created on : Nov 13, 2014, 1:35:14 PM
+    Author     : merlin
+*/
+
+table tbody tr:nth-child(odd) td {
+    background-color: #d3e8f9;
+}
+
+.centeredtable {
+    width: 800px;
+}
+
+#products {
+   width: 270px;
+   border-radius: 22px;
+   background-color: #769115;
+   color: white;
+}
